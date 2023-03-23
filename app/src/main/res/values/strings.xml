@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">tuGenius</string>
+    <string name="texto">Para obtener una API Key, sigue estos pasos:
+
+        1) Visita el sitio web (https://platform.openai.com/signup).
+
+        2) Crea una cuenta o inicia sesión si ya tienes una (puedes hacerlo rapidamente con tu cuenta de Google).
+
+        3) Dirigete a tu usuario y elige la opción View API Keys.
+
+        4) Pulsa en el boton + Create new secret key.
+
+        5) Copia el código generado y vuelve a la apps, en el menú superior derecha hay dos opciones, selecciona API key.
+
+        6) Pega la Key dentro del recuadro habilitado para ello y pulsa en guardar.
+
+        7) Cierra la aplicación y vuelve a abrirla y listo.
+
+        Muchas gracias.</string>
+</resources>
